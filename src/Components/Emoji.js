@@ -14,6 +14,7 @@ function Emoji () {
         cold: "🥶",
         love: "💗",
         shell: "🐚",
+        wave: "🌊",
           }
 
 
