@@ -23,7 +23,7 @@ To see it in action, clone the repository and follow the setup instructions belo
    
 2. **Navigate to the project directory:**
 
-   cd grocery-list
+   cd emoji-search-filter
 
 3. **Install dependencies:**
 
