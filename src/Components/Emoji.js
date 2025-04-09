@@ -49,7 +49,7 @@ function Emoji () {
             placeholder="Type the kind of emoji you want. (e.g cool, dolphin)"
             />
         <div>
-            
+           <p>{replacewithEmojis(text)}</p> 
         </div>
         </div>
 
