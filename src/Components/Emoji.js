@@ -11,6 +11,7 @@ function Emoji () {
         crying: "😭",
         blushing: "😊",
         cool: "😎",
+        cold: "🥶",
           }
 
 
