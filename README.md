@@ -42,3 +42,5 @@ To see it in action, clone the repository and follow the setup instructions belo
 
  ##🤝 Contributing
  Want to improve this project? Fork the repository, create a feature branch, and open a pull request. All contributions are welcome! 🚀✨
+
+ 🎉 Happy Coding!
