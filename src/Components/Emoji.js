@@ -33,7 +33,10 @@ function Emoji () {
         const replacewithEmojis = (input) => {
             return input.split("").map(word => emojiMapping[word.toLowerCase()] || word).join("");
         };
-
+ 
+        const handleChange = (e) => {
+            setText(e.target.value)
+        }
 
     return (
         <div>
