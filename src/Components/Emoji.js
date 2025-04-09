@@ -56,3 +56,5 @@ function Emoji () {
 
     )
 }
+
+export default Emoji;
