@@ -23,6 +23,7 @@ function Emoji () {
         cricket: "🏏",
         badminton: "🏸",
         flamingo: "🦩",
+        dolphin: "🐬",
 
           }
 
