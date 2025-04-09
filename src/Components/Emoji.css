@@ -16,6 +16,7 @@ h1 {
     color: aliceblue;
 }
 
+
 input[type="text"] {
     font-family: 'sans-serif';
     font-size: 32px;
@@ -24,5 +25,8 @@ input[type="text"] {
     border: 2px solid #eaeded ;
     border-radius: 8px;
     outline: none;
+    width: 700px;
+    text-align: center;
+    
 
 }
