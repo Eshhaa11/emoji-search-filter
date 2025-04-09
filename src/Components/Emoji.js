@@ -8,6 +8,7 @@ function Emoji () {
         sad: "😔",
         angry: "😡",
         pizza: "🍕",
+        burger: "🍔",
         confused: "😕",
         crying: "😭",
         blushing: "😊",
