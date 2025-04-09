@@ -19,7 +19,9 @@ function Emoji () {
         wave: "🌊",
         moon: "🌙",
         star:  "💫",
-        trophy: "🏆"
+        trophy: "🏆",
+        cricket: "🏏",
+
           }
 
 
