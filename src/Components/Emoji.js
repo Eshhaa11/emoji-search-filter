@@ -10,6 +10,7 @@ function Emoji () {
         confused: "😕",
         crying: "😭",
         blushing: "😊",
+        cool: "😎",
           }
 
 
