@@ -42,6 +42,9 @@ function Emoji () {
     return (
         <div className="cont">
             <h1>Emoji Search</h1>
+            <input
+            type="text"
+            
         </div>
     )
 }
