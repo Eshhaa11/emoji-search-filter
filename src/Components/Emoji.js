@@ -9,7 +9,8 @@ function Emoji () {
         angry: "😡",
         confused: "😕",
         crying: "😭",
-      }
+        blushing: "😊",
+          }
 
 
     return (
