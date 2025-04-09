@@ -48,7 +48,11 @@ function Emoji () {
             onChange={handleChange}
             placeholder="Type the kind of emoji you want. (e.g cool, dolphin)"
             />
-
+        <div>
+            
         </div>
+        </div>
+
+
     )
 }
