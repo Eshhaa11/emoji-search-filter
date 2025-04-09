@@ -25,6 +25,7 @@ function Emoji () {
         flamingo: "🦩",
         dolphin: "🐬",
         tulip: "🌷",
+        bubble: "🫧",
 
           }
 
