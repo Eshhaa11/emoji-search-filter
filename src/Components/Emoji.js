@@ -1,4 +1,5 @@
 import { useState } from "react";
+import './Emoji.css';
 
 function Emoji () {
     const [text, setText] = useState("")
