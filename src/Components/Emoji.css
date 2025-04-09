@@ -37,4 +37,5 @@ input[type="text"] {
 p {
     font-size: 40px;
     font-weight: bolder;
+    padding: 10px;
 }
