@@ -41,3 +41,4 @@ To see it in action, clone the repository and follow the setup instructions belo
  ![App Screenshot](src/assets/image.png)
 
  ##🤝 Contributing
+ Want to improve this project?
