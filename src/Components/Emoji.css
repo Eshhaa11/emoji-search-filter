@@ -15,3 +15,8 @@ h1 {
     font-size: 32px;
     font-weight: bold;
 }
+
+input[type="text"] {
+    font-family: 'sans-serif'
+
+}
