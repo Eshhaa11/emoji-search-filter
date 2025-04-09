@@ -3,6 +3,10 @@ import { useState } from "react";
 function Emoji () {
     const [text, setText] = useState('')
 
+    const emojiMap = {
+        
+    }
+
 
     return (
         <div>
