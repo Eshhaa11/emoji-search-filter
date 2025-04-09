@@ -8,7 +8,8 @@ function Emoji () {
         sad: "😔",
         angry: "😡",
         confused: "😕",
-    }
+        crying: "😭",
+      }
 
 
     return (
