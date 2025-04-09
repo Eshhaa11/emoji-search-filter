@@ -45,6 +45,7 @@ function Emoji () {
             <input
             type="text"
             value={text}
+            onChange={handleChange}
 
         </div>
     )
