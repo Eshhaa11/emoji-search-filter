@@ -30,6 +30,5 @@ input[type="text"] {
     position: relative;
     left: 400px;
     top: 50px;
-    
-
+    background-color: white;
 }
