@@ -15,3 +15,24 @@ A simple **React** application that allows users to type emoji names and have th
 
 ## 🚀 Live Demo
 To see it in action, clone the repository and follow the setup instructions below.
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Eshhaa11/emoji-search-filter
+   
+2. **Navigate to the project directory:**
+
+   cd grocery-list
+
+3. **Install dependencies:**
+
+   npm install
+
+4. **Start the development server:**
+
+   npm start
+
+5. **Open your browser and visit:**
+
+   http://localhost:3000
