@@ -3,7 +3,7 @@ import { useState } from "react";
 function Emoji () {
     const [text, setText] = useState('')
 
-    const emojiMap = {
+    const emojiMapping = {
         happy: "😄",
         sad: "😔",
         angry: "😡",
