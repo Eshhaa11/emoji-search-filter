@@ -12,6 +12,7 @@ function Emoji () {
         blushing: "😊",
         cool: "😎",
         cold: "🥶",
+        love: "💗",
           }
 
 
