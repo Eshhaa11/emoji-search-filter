@@ -23,5 +23,6 @@ input[type="text"] {
     padding: 10px;
     border: 2px solid #eaeded ;
     border-radius: 8px;
+    outline: none;
 
 }
