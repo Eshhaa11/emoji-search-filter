@@ -44,7 +44,8 @@ function Emoji () {
             <h1>Emoji Search</h1>
             <input
             type="text"
-            
+            value={text}
+
         </div>
     )
 }
