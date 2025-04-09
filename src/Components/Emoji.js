@@ -26,6 +26,7 @@ function Emoji () {
         dolphin: "🐬",
         tulip: "🌷",
         bubble: "🫧",
+        laptop: "💻",
 
           }
 
