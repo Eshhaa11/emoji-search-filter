@@ -6,6 +6,7 @@ function Emoji () {
     const emojiMap = {
         happy: "😄",
         sad: "😔",
+        angry: "😡",
     }
 
 
