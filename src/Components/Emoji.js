@@ -15,6 +15,7 @@ function Emoji () {
         love: "💗",
         shell: "🐚",
         wave: "🌊",
+        moon: "🌙",
           }
 
 
