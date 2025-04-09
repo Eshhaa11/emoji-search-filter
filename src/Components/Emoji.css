@@ -27,6 +27,7 @@ input[type="text"] {
     outline: none;
     width: 700px;
     text-align: center;
+    position: relative;
     
 
 }
