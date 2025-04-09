@@ -21,6 +21,7 @@ function Emoji () {
         star:  "💫",
         trophy: "🏆",
         cricket: "🏏",
+        badminton: "🏸",
 
           }
 
