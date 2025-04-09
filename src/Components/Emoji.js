@@ -13,6 +13,7 @@ function Emoji () {
         cool: "😎",
         cold: "🥶",
         love: "💗",
+        shell: "🐚",
           }
 
 
