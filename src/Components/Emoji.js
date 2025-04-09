@@ -4,7 +4,7 @@ function Emoji () {
     const [text, setText] = useState('')
 
     const emojiMap = {
-        
+        happy: "😄"
     }
 
 
