@@ -28,7 +28,11 @@ function Emoji () {
         bubble: "🫧",
         laptop: "💻",
 
-          }
+        };
+
+        const replacewithEmojis = (input) => {
+            
+        }
 
 
     return (
