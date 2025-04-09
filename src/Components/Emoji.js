@@ -36,10 +36,11 @@ function Emoji () {
  
         const handleChange = (e) => {
             setText(e.target.value)
-        }
+        };
+
 
     return (
-        <div>
+        <div className="cont">
             <h1>Emoji Search</h1>
         </div>
     )
