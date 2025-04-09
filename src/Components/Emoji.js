@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function Emoji () {
-    const [text, setText] = useState('')
+    const [text, setText] = useState("")
 
     const emojiMapping = {
         happy: "😄",
@@ -31,8 +31,8 @@ function Emoji () {
         };
 
         const replacewithEmojis = (input) => {
-            
-        }
+            return input.split("").map(word => emojiMapping[word.toLowerCase()] || word).join("");
+        };
 
 
     return (
