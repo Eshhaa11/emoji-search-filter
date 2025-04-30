@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/emoji%20.jpg)
+
 # 🦸‍♀️ Emoji Tracker App
 
 A simple **React** application that allows users to type emoji names and have them replaced with the corresponding emoji once the word is complete.
